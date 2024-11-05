@@ -1,0 +1,14 @@
+{
+  "name": "AI Analytics",
+  "short_name": "AI Analytics",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "32x32",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#2563eb",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}

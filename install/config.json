@@ -1,0 +1,12 @@
+{
+  "siteName": "AI Analytics",
+  "links": {
+    "fileUpload": "/wgrywanie-plikow",
+    "aiSystem": "/system-ai",
+    "imageAnalyzer": "/analizator-zdjec"
+  },
+  "logo": {
+    "path": "/logo.svg",
+    "alt": "AI Analytics Logo"
+  }
+}
